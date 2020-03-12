@@ -3,7 +3,6 @@ y_test
 __pycache__
 .ipynb_checkpoints
 tShirtsDF.pkl
-Jugadores
 .DS_Store
 tShirts_LaLiga.h5py
 tShirts073_LaLiga.h5py

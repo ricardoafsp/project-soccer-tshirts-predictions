@@ -23,19 +23,19 @@ def reconoceLaCamiseta(path):
 
     for x in resultadoFinal:
         if x[0] == max(x):
-            print('La camiseta es del -> Barcelona')
+            return 'La camiseta es del -> Barcelona'
         elif x[1] == max(x):
-            print('La camiseta es del -> Real Madrid')
+            return 'La camiseta es del -> Real Madrid'
         elif x[2] == max(x):
-            print('La camiseta es del -> Valencia')
+            return 'La camiseta es del -> Valencia'
         elif x[3] == max(x):
-            print('La camiseta es del -> Getafe')
+            return 'La camiseta es del -> Getafe'
         elif x[4] == max(x):
-            print('La camiseta es del -> Betis')
+            return 'La camiseta es del -> Betis'
         elif x[5] == max(x):
-            print('La camiseta es del -> Atletico de Madrid')
+            return 'La camiseta es del -> Atletico de Madrid'
         elif x[6] == max(x):
-            print('La camiseta es del -> Athletic Bilbao')
+            return 'La camiseta es del -> Athletic Bilbao'
     return None
 
 #reconoceLaCamiseta('Prueba/20c6d52136.jpg')
