@@ -1,5 +1,5 @@
 # project-soccer-tshirts-predictions
-El proyecto lo base en lograr el mejor porcentaje posible al entrenar una red neuronal que lograra reconocer camisetas de equipos de fútbol de La Liga (7 equipos actualmente), en un futuro espero poder seguir trabajando en ello y ampliar los equipos y posiblemente hasta ligas de distintos países.
+El proyecto lo basé en lograr el mejor porcentaje posible al entrenar una red neuronal que lograra reconocer camisetas de equipos de fútbol de La Liga (7 equipos actualmente), en un futuro espero poder seguir trabajando en ello y ampliar los equipos y posiblemente hasta ligas de distintos países.
 
 ## Estructura del trabajo realizado:
 * Dataset creado de imágenes obtenidas mediante Webscraping
